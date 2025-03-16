@@ -1,0 +1,148 @@
+# Modern Portfolio Template
+
+A beautiful, responsive portfolio template built with React, TypeScript, and Tailwind CSS. Features dark mode support, smooth animations, and a modern design.
+
+## Features
+
+- 🌙 Dark mode support
+- 📱 Fully responsive design
+- ⚡ Built with Vite for fast development
+- 🎨 Tailwind CSS for styling
+- 💻 TypeScript for type safety
+- 🔥 Modern animations
+- 📝 Blog section
+- 📄 Downloadable resume
+- 📧 Contact form
+
+## Getting Started
+
+1. Clone the repository:
+```bash
+git clone https://github.com/dporkka/portfolio-template.git
+```
+
+2. Install dependencies:
+```bash
+cd portfolio-template
+npm install
+```
+
+3. Start the development server:
+```bash
+npm run dev
+```
+
+4. Open your browser and visit `http://localhost:5173`
+
+## Development
+
+### Editing with Cursor
+
+[Cursor](https://cursor.sh/) is a powerful AI-powered code editor that can help you customize this template efficiently:
+
+1. Open the project in Cursor:
+   ```bash
+   cursor .
+   ```
+
+2. Use Cursor's AI features:
+   - Press `Cmd/Ctrl + K` to get AI suggestions
+   - Use `/edit` command to modify code with natural language
+   - Use `/doc` to generate documentation
+   - Press `Cmd/Ctrl + L` for line-by-line explanations
+
+3. Take advantage of Cursor's TypeScript and React support:
+   - Get intelligent autocomplete
+   - See real-time type checking
+   - Access component documentation
+   - Quick-fix common issues
+
+### Editing with Windsurf
+
+[Windsurf](https://www.windsurf.io/) offers a great experience for editing Tailwind CSS projects:
+
+1. Open the project in Windsurf:
+   - Launch Windsurf
+   - Select "Open Project"
+   - Navigate to your project directory
+
+2. Use Windsurf's features:
+   - Live preview with hot reload
+   - Visual Tailwind class editor
+   - Class suggestions and documentation
+   - Color palette management
+   - Responsive design preview
+
+3. Best practices with Windsurf:
+   - Use the class inspector to understand styles
+   - Leverage the component library
+   - Test responsive layouts in real-time
+   - Export optimized Tailwind configurations
+
+## Deployment
+
+### Deploy to Netlify
+
+1. Fork this repository to your GitHub account
+
+2. Sign up for a Netlify account at https://www.netlify.com
+
+3. From your Netlify dashboard:
+   - Click "Add new site"
+   - Select "Import an existing project"
+   - Choose "Deploy with GitHub"
+   - Select your forked repository
+
+4. Configure the build settings:
+   - Build command: `npm run build`
+   - Publish directory: `dist`
+   - Node version: `18` (or your preferred version)
+
+5. Click "Deploy site"
+
+### Setting Up Form Submissions
+
+1. Your contact form is already configured to work with Netlify Forms. After your first deployment, Netlify will automatically detect the form.
+
+2. To view form submissions:
+   - Go to your site's Netlify dashboard
+   - Click "Forms"
+   - You'll see all form submissions listed here
+   - Enable email notifications for new submissions in Form Settings
+
+3. Optional: Add spam protection
+   - Go to Form Settings
+   - Enable reCAPTCHA or Honeypot protection
+   - Netlify's spam filtering is automatically enabled
+
+## Customization
+
+1. Update personal information in the components:
+   - Edit `src/components/Hero.tsx` for the main header section
+   - Modify `src/components/About.tsx` for your bio
+   - Update `src/components/Skills.tsx` with your skills
+   - Add your projects in `src/components/Projects.tsx`
+   - Customize testimonials in `src/components/Testimonials.tsx`
+   - Update contact information in `src/components/Contact.tsx`
+
+2. Replace the profile image:
+   - Update the image URL in `src/components/Hero.tsx`
+   - Use your own image hosted on a CDN or update the local assets
+
+3. Customize the theme:
+   - Modify colors in `tailwind.config.js`
+   - Update animations in `src/index.css`
+
+## Support the Developer
+
+If you find this template helpful, consider supporting the developer (David Porkka):
+
+[Make a Donation](https://buy.stripe.com/cN26oM84c2oT772dQX)
+
+## Support
+
+If you have any problems or need help with the template, please email davidporkka@gmail.com.
+
+## License
+
+MIT License - feel free to use this template for your personal portfolio!

@@ -1,0 +1,202 @@
+%PDF-1.4
+%����
+1 0 obj
+<</Type/Catalog/Pages 2 0 R/Metadata 3 0 R>>
+endobj
+2 0 obj
+<</Type/Pages/Kids[4 0 R]/Count 1>>
+endobj
+3 0 obj
+<</Type/Metadata/Subtype/XML/Length 3000>>
+stream
+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <rdf:Description rdf:about="" xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+      <pdf:Producer>John Doe Resume Generator</pdf:Producer>
+    </rdf:Description>
+    <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/">
+      <dc:format>application/pdf</dc:format>
+      <dc:title><rdf:Alt><rdf:li>John Doe - Resume</rdf:li></rdf:Alt></dc:title>
+      <dc:creator><rdf:Seq><rdf:li>John Doe</rdf:li></rdf:Seq></dc:creator>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="w"?>
+endstream
+endobj
+4 0 obj
+<</Type/Page/MediaBox[0 0 612 792]/Resources<</Font<</F1<</Type/Font/Subtype/Type1/BaseFont/Helvetica>>/F2<</Type/Font/Subtype/Type1/BaseFont/Helvetica-Bold>>/F3<</Type/Font/Subtype/Type1/BaseFont/Helvetica-Oblique>>/F4<</Type/Font/Subtype/Type1/BaseFont/Helvetica-BoldOblique>>>>>/Contents 5 0 R/Parent 2 0 R>>
+endobj
+5 0 obj
+<</Length 4000>>
+stream
+BT
+/F2 28 Tf
+72 720 Td
+(John Doe) Tj
+/F3 18 Tf
+0 -30 Td
+(Full Stack Developer) Tj
+/F1 12 Tf
+0 -25 Td
+(Email: john.doe@example.com | Phone: +1 \(555\) 123-4567 | San Francisco, CA | johndoe.com) Tj
+
+/F2 16 Tf
+-72 -40 Td
+72 0 Td
+(Professional Experience) Tj
+/F1 12 Tf
+0 -5 Td
+(________________________________________________________________________) Tj
+
+/F4 14 Tf
+0 -25 Td
+(Senior Full Stack Developer) Tj
+/F3 12 Tf
+340 0 Td
+(2022 - Present) Tj
+/F3 12 Tf
+-340 -20 Td
+(TechInnovate Inc., San Francisco, CA) Tj
+/F1 12 Tf
+15 -20 Td
+(• Led development of a high-traffic e-commerce platform serving 100K+ daily users) Tj
+0 -15 Td
+(• Implemented CI/CD pipeline reducing deployment time by 70%) Tj
+0 -15 Td
+(• Mentored junior developers and conducted code reviews) Tj
+0 -15 Td
+(• Optimized database performance resulting in 50% faster query response times) Tj
+
+/F4 14 Tf
+-15 -30 Td
+(Full Stack Developer) Tj
+/F3 12 Tf
+340 0 Td
+(2019 - 2022) Tj
+/F3 12 Tf
+-340 -20 Td
+(WebSolutions Co., San Francisco, CA) Tj
+/F1 12 Tf
+15 -20 Td
+(• Developed and maintained multiple client websites and web applications) Tj
+0 -15 Td
+(• Optimized database queries resulting in 40% faster page load times) Tj
+0 -15 Td
+(• Collaborated with design team to implement responsive UI/UX) Tj
+0 -15 Td
+(• Integrated third-party APIs and services to enhance application functionality) Tj
+
+/F2 16 Tf
+-15 -35 Td
+(Education) Tj
+/F1 12 Tf
+0 -5 Td
+(________________________________________________________________________) Tj
+
+/F4 14 Tf
+0 -25 Td
+(Master of Computer Science) Tj
+/F3 12 Tf
+340 0 Td
+(2017 - 2019) Tj
+/F3 12 Tf
+-340 -20 Td
+(Stanford University, Stanford, CA) Tj
+/F1 12 Tf
+15 -20 Td
+(• Specialized in Software Engineering and Artificial Intelligence) Tj
+0 -15 Td
+(• GPA: 3.9/4.0) Tj
+0 -15 Td
+(• Teaching Assistant for Advanced Web Development course) Tj
+
+/F2 16 Tf
+-15 -35 Td
+(Technical Skills) Tj
+/F1 12 Tf
+0 -5 Td
+(________________________________________________________________________) Tj
+
+/F4 14 Tf
+0 -25 Td
+(Frontend Development) Tj
+/F1 12 Tf
+15 -20 Td
+(• React / Next.js, TypeScript, Tailwind CSS, Redux) Tj
+0 -15 Td
+(• Modern JavaScript \(ES6+\), HTML5, CSS3, Webpack) Tj
+0 -15 Td
+(• Responsive Design, Web Accessibility, Performance Optimization) Tj
+
+/F4 14 Tf
+-15 -25 Td
+(Backend Development) Tj
+/F1 12 Tf
+15 -20 Td
+(• Node.js / Express, Python / Django, RESTful APIs) Tj
+0 -15 Td
+(• PostgreSQL, MongoDB, GraphQL, Redis) Tj
+0 -15 Td
+(• Microservices Architecture, API Design, Security Best Practices) Tj
+
+/F4 14 Tf
+-15 -25 Td
+(DevOps & Tools) Tj
+/F1 12 Tf
+15 -20 Td
+(• Docker, Kubernetes, CI/CD \(GitHub Actions, Jenkins\)) Tj
+0 -15 Td
+(• AWS \(EC2, S3, Lambda, RDS\), GCP, Terraform) Tj
+0 -15 Td
+(• Git, Jira, Agile Methodologies, Testing \(Jest, Cypress\)) Tj
+
+/F2 16 Tf
+-15 -35 Td
+(Certifications) Tj
+/F1 12 Tf
+0 -5 Td
+(________________________________________________________________________) Tj
+
+/F4 14 Tf
+0 -25 Td
+(Professional Certifications) Tj
+/F1 12 Tf
+15 -20 Td
+(• AWS Certified Solutions Architect - Professional) Tj
+0 -15 Td
+(• Google Cloud Professional Developer) Tj
+0 -15 Td
+(• MongoDB Certified Developer Associate) Tj
+
+/F2 16 Tf
+-15 -35 Td
+(Additional Information) Tj
+/F1 12 Tf
+0 -5 Td
+(________________________________________________________________________) Tj
+
+/F1 12 Tf
+15 -20 Td
+(• Open Source Contributor to various React and Node.js projects) Tj
+0 -15 Td
+(• Regular speaker at tech conferences and meetups) Tj
+0 -15 Td
+(• Fluent in English and Spanish) Tj
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f
+0000000015 00000 n
+0000000078 00000 n
+0000000130 00000 n
+0000003207 00000 n
+0000003498 00000 n
+trailer
+<</Size 6/Root 1 0 R/ID[<1234567890ABCDEF><FEDCBA0987654321>]>>
+startxref
+7549
+%%EOF
