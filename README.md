@@ -2,6 +2,9 @@
 
 A beautiful, responsive portfolio template built with React, TypeScript, and Tailwind CSS. Features dark mode support, smooth animations, and a modern design.
 
+**View Live Demo Here:**
+https://personal-website-template.netlify.app/
+
 ## Features
 
 - 🌙 Dark mode support
