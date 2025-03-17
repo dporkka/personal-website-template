@@ -44,6 +44,13 @@ https://personal-website-template.netlify.app/
 
 ## Getting Started
 
+### Option 1: Edit with Stackblitz by Forking this Repo
+
+https://stackblitz.com/~/github.com/dporkka/personal-website-template
+![Screenshot 2025-03-17 143013](https://github.com/user-attachments/assets/9d1caf1b-3ddb-4f43-90c3-1ccab79b9eff)
+
+## Option 2: Clone this repo from Github
+
 1. Open your Terminal and Clone the repository:
 ```bash
 git clone https://github.com/dporkka/personal-website-template.git
