@@ -14,11 +14,36 @@ A beautiful, responsive portfolio template built with React, TypeScript, and Tai
 - 📄 Downloadable resume
 - 📧 Contact form
 
+**Hero Section - Light Mode**
+![image](https://github.com/user-attachments/assets/5ae5d825-c5c2-45e1-9eea-6add0567d5f0)
+
+**Hero Section - Dark Mode**
+![Screenshot 2025-03-17 135035](https://github.com/user-attachments/assets/d564c6bc-9f05-4bbb-a979-daa86cd4ecd1)
+
+**Projects Section**
+![Screenshot 2025-03-17 135228](https://github.com/user-attachments/assets/67c0973d-eb32-40bc-b380-e938dbde02f7)
+
+**Blog Page**
+![Screenshot 2025-03-17 135316](https://github.com/user-attachments/assets/aea540fc-610b-4eaa-8d6e-b6e0f84c712e)
+
+**Blog Post**
+![image](https://github.com/user-attachments/assets/6d734952-6afb-4c8b-82ef-60f0f2216f9f)
+
+**Testimonials Section**
+![Screenshot 2025-03-17 135237](https://github.com/user-attachments/assets/f8dc8123-c1f1-47b9-bec2-b6f6d7a86432)
+
+**Resume Page with PDF Download Option**
+![Screenshot 2025-03-17 135356](https://github.com/user-attachments/assets/9b3f183f-93c3-4b91-b149-f87e048cee5b)
+
+**Contact Page**
+![Screenshot 2025-03-17 135249](https://github.com/user-attachments/assets/cff99303-22bb-49b4-95f4-5337bd3b6676)
+
+
 ## Getting Started
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/dporkka/portfolio-template.git
+git clone https://github.com/dporkka/personal-website-template.git
 ```
 
 2. Install dependencies:
